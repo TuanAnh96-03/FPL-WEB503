@@ -6,5 +6,5 @@ app.get("/", () => {
 });
 
 app.listen(3000, () => {
-    console.log("Server đang chạy cổng 3000");
+    console.log("Server đang chạy 3000");
 });
